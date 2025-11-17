@@ -74,7 +74,7 @@ Guss my number/
 or
 launch using the Live Server extension in VS Code.
 
-🎯 Why Recruiters Should Care
+## 🎯 Why Recruiters Should Care
 
 This project demonstrates that I can:
 
